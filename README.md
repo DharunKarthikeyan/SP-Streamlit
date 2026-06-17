@@ -1,4 +1,4 @@
-# 👑 SP - Premium Global File Share
+# 👑 SFS - secure file sharing
 
 A sleek, secure, and lightweight web-based file-sharing portal built with Python and Streamlit. This application acts as a secure digital dropbox, allowing users to upload files and share them across a network using uniquely generated cryptographic fraction codes.
 
